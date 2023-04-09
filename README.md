@@ -5,8 +5,8 @@ The model is trained to pick up victims from their designated locations and drop
 
 Training a MARL model for a disaster situation is very useful. Be it Tsunami's or Floods or Earthquake, certain patterns of the disasters always remain the same, i.e. the roads are blocked, people are displaced, there is low connectivity irrespective of which country it is and what kind of building it is. In the project I have touched upon 0.001 % of RL to address the usefulness of MARL in disaster management and planning. MARL can also be used to train a drone to navigate environments. 
 
-# A snapshot of the first 500 steps of the Agent being trained.
-![output_final](/home/shinde/Documents/trainings/Spiced_Academy/Github/tahini-tensor-student-code/spiced_projects/WEEK_12/Rescue-Trainer/final_gif_10000_100_steps.gif)
+# A snapshot of the first 100 steps of the Agent being trained.
+![output_final](https://github.com/shindesimantini6/Rescue-Trainer/blob/main/final_gif_10000_100_steps.gif)
 
 # Requirements
 - Python 3.9 or above
